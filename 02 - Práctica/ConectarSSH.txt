@@ -1,0 +1,7 @@
+SERVIDOR PARA PRÁCTICAS
+IP: 172.105.153.22
+Puerto: 22
+
+Tutorial para conectarse a un servidor remoto por SSH:
+https://www.adslzone.net/redes/windows/como-conectarse-un-servidor-remoto-ssh-en-windows/
+
